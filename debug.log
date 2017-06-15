@@ -1,0 +1,6 @@
+[0615/144312.341:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0615/144312.446:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0615/144312.937:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0615/144531.257:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0615/144531.336:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0615/144531.351:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
